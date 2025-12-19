@@ -1,7 +1,7 @@
 * {
   padding: 0px;
   margin: 0px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .header {
@@ -140,4 +140,5 @@ border:none;
      padding-bottom:5px;
   font-weight:bolder;
   cursor:pointer;
+
 }
