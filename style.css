@@ -1,0 +1,143 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+  padding: 50px;
+}
+.header-one {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  padding-left: 20px;
+  font-weight: bolder;
+}
+#header-one__cont {
+  text-decoration: none;
+  background-color: red;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: inline-block;
+  font-weight: bold;
+}
+#header-one__title {
+  font-weight: 900;
+  font-size: 48px;
+  padding-bottom: 15px;
+  text-transform: bold;
+}
+#header-one__desc {
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 15px;
+}
+#header-two__title,
+#header-three__title, #header-four__title {
+  margin-top: 10px;
+}
+#header-two__desc,
+#header-four__desc1,
+#header-four__desc2 {
+  margin-top: 10px;
+}
+.header-five {
+  background-color: black;
+  color: white;
+  padding-left: 15px;
+  margin-top: 20px;
+  padding: 20px;
+}
+#header-five__desc1 {
+  font-weight: bolder;
+}
+#header-five__desc1 a {
+  color: rgb(134, 180, 209);
+}
+#header-five__desc2 {
+  margin-top: 10px;
+  font-weight: 600;
+}
+.header-three li, .header-four li {
+  list-style: none;
+  margin-top: 10px;
+}
+.header-three
+{
+  margin-top: 20px;
+  width: 170px;
+  height:200px;
+  background-color: blue;
+  color: black;
+  padding-left: 20px;
+  padding-top: 20px;
+  border-radius: 10px;
+  display:inline-block;
+  vertical-align: top;
+}
+.header-four
+{
+margin-top: 20px;
+background-color: red;
+color:black;;
+padding-left: 20px;
+padding-top: 20px;
+height:200px;
+display: inline-block;
+padding-top: 20px;
+border-radius: 15px;
+vertical-align: top;
+
+}
+
+.contact
+{
+  margin-top:10px;
+}
+#contact__input,#contact__area,#contact__sub,#contact__mail,#contact__reset
+{
+margin-top:10px;
+border:none;
+}
+#contact__input
+{
+  padding:10px;
+  border-bottom: 1px solid black;
+}
+#contact__mail
+{
+  padding:10px;
+  border-bottom: 1px solid black;
+}
+#contact__area
+{
+  padding:10px;
+  border: 1px solid black;
+}
+#contact__sub
+{
+  background-color: orange;
+  color: white;
+  padding-left:10px;
+   padding-right:10px;
+    padding-top:5px;
+     padding-bottom:5px;
+  font-weight:bolder;
+  cursor:pointer;
+}
+#contact__reset
+{
+  border:none;
+  background-color: orange;
+  color: white;
+  padding-left:10px;
+   padding-right:10px;
+    padding-top:5px;
+     padding-bottom:5px;
+  font-weight:bolder;
+  cursor:pointer;
+}
